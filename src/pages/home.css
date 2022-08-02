@@ -1,0 +1,9 @@
+.home{
+    background-color: #f1f2f5;
+    height: 100%;
+}
+
+.app__body{
+    display: flex;
+    margin-top: 10px;
+}
